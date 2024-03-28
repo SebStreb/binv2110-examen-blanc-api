@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "category": "starters",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Onion Soup",
+        "price": 6.50,
+        "category": "starters",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Burgundy Snails",
+        "price": 8.99,
+        "category": "starters",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Steak Fries",
+        "price": 15.99,
+        "category": "main",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Roast Chicken",
+        "price": 12.99,
+        "category": "main",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Grilled Salmon",
+        "price": 16.99,
+        "category": "main",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Ratatouille",
+        "price": 9.99,
+        "category": "main",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Creme Brulee",
+        "price": 6.99,
+        "category": "desserts",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Tarte Tatin",
+        "price": 5.99,
+        "category": "desserts",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item9.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Chocolate Mousse",
+        "price": 4.99,
+        "category": "desserts",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item10.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Gourmet Coffee",
+        "price": 6.99,
+        "category": "drinks",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item11.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Green Tea",
+        "price": 3.99,
+        "category": "drinks",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item12.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Red Wine",
+        "price": 4.99,
+        "category": "drinks",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item13.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Mineral Water",
+        "price": 2.99,
+        "category": "drinks",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item14.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Local Beer",
+        "price": 3.99,
+        "category": "drinks",
+        "imagePath": "https://sebstreb.github.io/examen-blanc-api/images/item15.jpeg"
+    }
+]
